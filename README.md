@@ -1,4 +1,4 @@
-this is ready to meger
+this is ready to megergogogo
 # moz-todo-vue
 
 ## Project setup
